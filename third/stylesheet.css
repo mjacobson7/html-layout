@@ -1,0 +1,41 @@
+html, body {
+  margin: 0%;
+}
+.greybox {
+  background-color: #e0e0eb;
+  width: 100%;
+  height: 10%;
+}
+.smallbox {
+  background-color: #3385ff;
+  float: left;
+  height: 8%;
+  width: 5%;
+  margin: .5% 1%;
+}
+.whitebox {
+  background-color: white;
+  height: 20%;
+  width: 100%;
+
+}
+.bluebox {
+  background-color: #3385ff;
+  height: 17.5%;
+  width: 100%;
+}
+.aquabox {
+  background-color: aqua;
+  height: 17.5%;
+  width: 100%;
+}
+.greenbox {
+  background-color:  #b3ffb3;
+  height: 17.5%;
+  width: 100%;
+}
+.yellowbox {
+  background-color: yellow;
+  height: 17.5%;
+  width: 100%;
+}
