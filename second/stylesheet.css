@@ -1,0 +1,34 @@
+html, body {
+  margin: 0%;
+
+}
+.leftbox {
+  background-color: #4d94ff;
+  height: 100%;
+  width: 33.33%;
+  float: left;
+}
+.middlebox {
+  background-color: #33ffad;
+  height: 100%;
+  width: 33.33%;
+  float: left;
+}
+.rightbox {
+  background-color: #d9ffb3;
+  height: 75%;
+  width: 33.33%;
+  float: right;
+}
+.bottom {
+  background-color: red;
+  height: .01%;
+  width: 23.3%;
+  float: right;
+  padding: 7% 5%;
+  font-size: 30px;
+  text-align: center;
+}
+.name {
+
+}
