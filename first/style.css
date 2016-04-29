@@ -1,0 +1,37 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+header {
+  background-color: #595959;
+  height: 15%;
+  width: 100%;
+
+}
+.leftside {
+  background-color: #d9d9d9;
+  height: 85%;
+  width: 15%;
+  float: left;
+}
+.rightside {
+  background-color: #d9d9d9;
+  height: 85%;
+  width: 15%;
+  float: right;
+}
+.middle {
+  background-color: white;
+  height: 80%;
+  width: 70%;
+  margin: 0 auto;
+}
+
+footer {
+  background-color: #1a1a1a;
+  width: 70%;
+  height: 5%;
+  margin: 0 auto;
+
+}
